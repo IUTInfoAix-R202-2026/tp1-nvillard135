@@ -11,7 +11,6 @@ import org.junit.jupiter.api.Test;
  */
 class EcouteurClasseNommeeTest {
 
-  // @Disabled("Retire cette annotation pour activer le test")
   @Test
   void handleIncrementeLeCompteur() {
     Compteur compteur = new Compteur();
